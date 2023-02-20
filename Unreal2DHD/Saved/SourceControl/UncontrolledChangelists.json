@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Maps/Main.umap",
+				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Blueprints/BP_GameModeBase.uasset",
+				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Blueprints/BP_PlayerBase.uasset"
+			]
+		}
+	]
+}
