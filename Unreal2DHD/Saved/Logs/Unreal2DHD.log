@@ -2074,3 +2074,1371 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.20-12.57.52:698][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 408 ms)
 [2023.02.20-12.57.52:703][517]AssetCheck: New page: Asset Save: Main
 [2023.02.20-12.57.52:703][517]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2023.02.20-13.20.56:896][640]LogInterchangeEngine: [Pending] Importing
+[2023.02.20-13.20.56:896][640]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.02.20-13.20.56:896][640]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.02.20-13.20.56:896][640]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.02.20-13.20.56:896][640]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.02.20-13.20.56:896][640]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.02.20-13.20.56:897][640]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.02.20-13.20.56:898][640]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.02.20-13.20.56:899][640]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.02.20-13.20.56:899][640]LogTexture: Display: Building textures: /Game/Assets/T_Hearts.T_Hearts (TFO_AutoDXT, 576x56 x1x1x1) (Required Memory Estimate: 5.148438 MB), EncodeSpeed: Fast
+[2023.02.20-13.20.56:901][640]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.02.20-13.20.56:902][640]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.02.20-13.20.56:902][640]LogTexture: Display: Building textures: /Game/Assets/T_Bat.T_Bat (TFO_AutoDXT, 1288x120 x1x1x1) (Required Memory Estimate: 24.432617 MB), EncodeSpeed: Fast
+[2023.02.20-13.20.56:902][640]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.02.20-13.20.56:903][640]LogTexture: Display: Building textures: /Game/Assets/T_Spring.T_Spring (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.02.20-13.20.56:907][640]LogTexture: Display: Building textures: /Game/Assets/T_PlayerFrog.T_PlayerFrog (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2023.02.20-13.20.56:908][640]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.02.20-13.20.56:908][640]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.02.20-13.20.56:908][640]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.02.20-13.20.56:908][640]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.02.20-13.20.56:909][640]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.02.20-13.20.56:909][640]LogTexture: Display: Building textures: /Game/Assets/T_Terrain.T_Terrain (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2023.02.20-13.20.56:911][640]LogTexture: Display: Building textures: /Game/Assets/T_PlayerMask.T_PlayerMask (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2023.02.20-13.20.56:951][640]LogInterchangeEngine: [Success] Import Done
+[2023.02.20-13.20.56:972][641]LogInterchangeEngine: [Success] Import Done
+[2023.02.20-13.21.33:648][ 79]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/T_PlayerFrog.T_PlayerFrog
+[2023.02.20-13.21.33:985][ 79]LogViewport: Scene viewport resized to 2567x1298, mode Windowed.
+[2023.02.20-13.21.47:253][510]LogTexture: Display: Building textures: /Game/Assets/T_Bat.T_Bat (BGRA8, 1288x120 x1x1x1) (Required Memory Estimate: 4.582764 MB), EncodeSpeed: Fast
+[2023.02.20-13.21.47:253][510]LogTexture: Display: Building textures: /Game/Assets/T_Hearts.T_Hearts (BGRA8, 576x56 x1x1x1) (Required Memory Estimate: 1.005859 MB), EncodeSpeed: Fast
+[2023.02.20-13.21.47:254][510]LogTexture: Display: Building textures: /Game/Assets/T_Spring.T_Spring (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2023.02.20-13.21.47:254][510]LogTexture: Display: Building textures: /Game/Assets/T_PlayerFrog.T_PlayerFrog (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Fast
+[2023.02.20-13.21.47:255][510]LogTexture: Display: Building textures: /Game/Assets/T_PlayerMask.T_PlayerMask (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Fast
+[2023.02.20-13.21.47:258][510]LogTexture: Display: Building textures: /Game/Assets/T_Terrain.T_Terrain (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Fast
+[2023.02.20-13.21.57:036][625]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/T_PlayerFrog.T_PlayerFrog
+[2023.02.20-13.21.57:067][625]LogViewport: Scene viewport resized to 2567x1298, mode Windowed.
+[2023.02.20-13.22.14:035][637]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.22.14:035][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.22.28:952][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.22.28:986][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/T_Terrain" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_Terrain.uasset" SILENT=true
+[2023.02.20-13.22.28:999][374]LogSavePackage: Moving output files for package: /Game/Assets/Textures/T_Terrain
+[2023.02.20-13.22.28:999][374]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Terrain1C07C1DF4CAF4275CECE31BFDEB938F1.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_Terrain.uasset'
+[2023.02.20-13.22.29:000][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/T_Bat" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_Bat.uasset" SILENT=true
+[2023.02.20-13.22.29:003][374]LogSavePackage: Moving output files for package: /Game/Assets/Textures/T_Bat
+[2023.02.20-13.22.29:003][374]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Bat0BED1F5E4C5DD568ED988E9087872B0D.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_Bat.uasset'
+[2023.02.20-13.22.29:004][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/T_Hearts" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_Hearts.uasset" SILENT=true
+[2023.02.20-13.22.29:006][374]LogSavePackage: Moving output files for package: /Game/Assets/Textures/T_Hearts
+[2023.02.20-13.22.29:006][374]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_HeartsC13F43454E16314EF98D4B8172E9956B.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_Hearts.uasset'
+[2023.02.20-13.22.29:007][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/T_PlayerFrog" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_PlayerFrog.uasset" SILENT=true
+[2023.02.20-13.22.29:019][374]LogSavePackage: Moving output files for package: /Game/Assets/Textures/T_PlayerFrog
+[2023.02.20-13.22.29:019][374]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrogEC6022904FC2F4E3B2BAAC9F0A63A47C.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_PlayerFrog.uasset'
+[2023.02.20-13.22.29:021][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/T_PlayerMask" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_PlayerMask.uasset" SILENT=true
+[2023.02.20-13.22.29:033][374]LogSavePackage: Moving output files for package: /Game/Assets/Textures/T_PlayerMask
+[2023.02.20-13.22.29:033][374]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask7D96F87D4D660FE1D59571AA006608CC.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_PlayerMask.uasset'
+[2023.02.20-13.22.29:035][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/T_Spring" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_Spring.uasset" SILENT=true
+[2023.02.20-13.22.29:039][374]LogSavePackage: Moving output files for package: /Game/Assets/Textures/T_Spring
+[2023.02.20-13.22.29:039][374]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_SpringF2B08DCA4AE09FA166CDC5A5B93B4702.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_Spring.uasset'
+[2023.02.20-13.22.29:044][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 500 ms)
+[2023.02.20-13.22.29:166][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.02.20-13.22.29:214][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.20-13.22.29:238][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.22.29:254][374]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.22.29:254][374]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/T_Terrain.T_Terrain
+[2023.02.20-13.22.29:254][374]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/T_Spring.T_Spring
+[2023.02.20-13.22.29:254][374]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/T_Bat.T_Bat
+[2023.02.20-13.22.29:254][374]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/T_Hearts.T_Hearts
+[2023.02.20-13.22.29:254][374]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/T_PlayerFrog.T_PlayerFrog
+[2023.02.20-13.22.29:254][374]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/T_PlayerMask.T_PlayerMask
+[2023.02.20-13.26.42:979][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.26.43:855][458]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.26.43:879][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.26.43:895][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.20-13.26.43:910][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.02.20-13.26.47:249][793]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2023.02.20-13.26.47:280][794]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2023.02.20-13.26.47:305][795]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2023.02.20-13.26.50:832][139]LogSlate: Window 'Extract sprites' being destroyed
+[2023.02.20-13.27.14:941][991]LogContentBrowser: Deferred new asset file creation: T_PlayerFrog1
+[2023.02.20-13.27.14:971][991]LogContentBrowser: Creating deferred item: T_PlayerFrog1
+[2023.02.20-13.27.14:982][992]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerFrog1).
+[2023.02.20-13.27.24:659][153]LogContentBrowser: Attempting asset rename: T_PlayerFrog1 -> T_PlayerFrogIdle
+[2023.02.20-13.27.24:660][153]LogContentBrowser: End creating deferred item T_PlayerFrog1
+[2023.02.20-13.27.26:885][419]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Assets/Textures/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0
+[2023.02.20-13.27.26:885][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.27.26:924][419]LogViewport: Scene viewport resized to 2742x1302, mode Windowed.
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: ================================================
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Total job queries 144, among them cache hits 20 (13.89%)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Tracking 123 distinct input hashes that result in 101 distinct outputs (82.11%)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: RAM used: 1.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Shaders Compiled: 40
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Jobs assigned 41, completed 40 (97.56%)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Average time worker was idle: 303.68 s
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 0.87 s
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Job life time (pending + execution): average 0.65 s, max 0.93
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.49 s
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Jobs were issued in 41 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Average processing rate: 6.16 jobs/sec
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Total thread time: 15.66 s
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Total thread preprocess time: 0.87 s
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Percentage time preprocessing: 5.57%
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Effective parallelization: 2.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.54 sec, max 0.73 sec, min 0.42 sec)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.45 sec, max 0.60 sec, min 0.37 sec)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 0.42 sec, max 0.72 sec, min 0.34 sec)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.75% of total time (compiled    8 times, average 0.54 sec, max 0.73 sec, min 0.42 sec)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.04% of total time (compiled    8 times, average 0.45 sec, max 0.60 sec, min 0.37 sec)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display:                                                 FLumenCardVS - 21.55% of total time (compiled    8 times, average 0.42 sec, max 0.72 sec, min 0.34 sec)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.40% of total time (compiled    8 times, average 0.32 sec, max 0.54 sec, min 0.23 sec)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 3.22% of total time (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2023.02.20-13.27.27:446][473]LogShaderCompilers: Display: ================================================
+[2023.02.20-13.27.30:941][890]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.27.30:941][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.27.31:878][982]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Assets/Textures/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0
+[2023.02.20-13.27.31:878][982]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Assets/Textures/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0
+[2023.02.20-13.27.31:878][982]LogActorFactory: Actor Factory spawned PaperSprite /Game/Assets/Textures/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0 as actor: PaperSpriteActor /Game/Maps/Main.Main:PersistentLevel.PaperSpriteActor_0
+[2023.02.20-13.27.31:878][982]LogActorFactory: Actor Factory spawned PaperSprite /Game/Assets/Textures/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0 as actor: PaperSpriteActor /Game/Maps/Main.Main:PersistentLevel.PaperSpriteActor_0
+[2023.02.20-13.27.32:450][ 43]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Assets/Textures/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0
+[2023.02.20-13.27.32:450][ 43]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Assets/Textures/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0
+[2023.02.20-13.27.32:451][ 43]LogActorFactory: Actor Factory spawned PaperSprite /Game/Assets/Textures/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0 as actor: PaperSpriteActor /Game/Maps/Main.Main:PersistentLevel.PaperSpriteActor_1
+[2023.02.20-13.27.32:451][ 43]LogActorFactory: Actor Factory spawned PaperSprite /Game/Assets/Textures/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0 as actor: PaperSpriteActor /Game/Maps/Main.Main:PersistentLevel.PaperSpriteActor_1
+[2023.02.20-13.27.41:212][ 62]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.20-13.27.41:215][ 62]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.20-13.27.41:216][ 62]LogPlayLevel: [PlayLevel] Compiling BP_PlayerBase before play...
+[2023.02.20-13.27.41:245][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.02.20-13.27.41:251][ 62]LogPlayLevel: PlayLevel: Blueprint regeneration took 35 ms (1 blueprints)
+[2023.02.20-13.27.41:251][ 62]PIE: New page: PIE session: Main (20 Feb 2023, 13:27:41)
+[2023.02.20-13.27.41:286][ 62]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.02.20-13.27.41:287][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001444s)
+[2023.02.20-13.27.41:287][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001473s)
+[2023.02.20-13.27.41:287][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.27.41:288][ 62]LogAIModule: Creating AISystem for world Main
+[2023.02.20-13.27.41:288][ 62]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2023.02.20-13.27.41:302][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.02.20-13.27.41:303][ 62]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.02.20-13.27.41:303][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.20-13.27.41:303][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.20-13.27.41:303][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.20-13.27.41:303][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.20-13.27.41:303][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.20-13.27.41:303][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.20-13.27.41:303][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.20-13.27.41:303][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.20-13.27.41:303][ 62]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.20-13.27.41:303][ 62]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.20-13.27.41:303][ 62]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.20-13.27.41:305][ 62]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.20-13.27.41:421][ 62]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2023.02.20-13.27.41:421][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.20-13.27.41:421][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.20-13.27.41:421][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.20-13.27.41:421][ 62]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.02.20-13.27.41:421][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.02.20-13.27.41:423][ 62]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.02.20-13.27.41:423][ 62]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.02.20-13.27.41:423][ 62]LogInit: FAudioDevice initialized.
+[2023.02.20-13.27.41:423][ 62]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main'.
+[2023.02.20-13.27.41:425][ 62]LogLoad: Game class is 'BP_GameModeBase_C'
+[2023.02.20-13.27.41:426][ 62]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.02.20-13.27.41
+[2023.02.20-13.27.41:426][ 62]LogWorld: Bringing up level for play took: 0.000546
+[2023.02.20-13.27.41:427][ 62]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.02.20-13.27.41:428][ 62]PIE: Server logged in
+[2023.02.20-13.27.41:429][ 62]PIE: Play in editor total start time 0.214 seconds.
+[2023.02.20-13.27.46:497][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.27.46:497][657]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.02.20-13.27.46:497][657]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.27.46:497][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.27.46:500][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-13.27.46:503][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.27.46:517][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.27.46:518][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.02.20-13.27.46:519][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.02.20-13.27.46:524][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.02.20-13.27.46:588][659]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.02.20-13.27.52:709][368]Cmd: DELETE
+[2023.02.20-13.27.52:709][368]Cmd: ACTOR DELETE
+[2023.02.20-13.27.52:711][368]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2023.02.20-13.27.52:727][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.27.52:731][368]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.02.20-13.27.56:597][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.02.20-13.27.58:035][818]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.27.58:056][818]LogUObjectGlobals: Force Deleting 26 Package(s):
+	Asset Name: /Game/Assets/Textures/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Textures/T_PlayerFrog_Sprite_1.T_PlayerFrog_Sprite_1
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Textures/T_PlayerFrog_Sprite_2.T_PlayerFrog_Sprite_2
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Textures/T_PlayerFrog_Sprite_3.T_PlayerFrog_Sprite_3
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Textures/T_PlayerFrog_Sprite_4.T_PlayerFrog_Sprite_4
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Textures/T_PlayerFrog_Sprite_5.T_PlayerFrog_Sprite_5
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Textures/T_PlayerFrog_Sprite_6.T_PlayerFrog_Sprite_6
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Textures/T_PlayerFrog_Sprite_7.T_PlayerFrog_Sprite_7
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Textures/T_PlayerFrog_Sprite_8.T_PlayerFrog_Sprite_8
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Textures/T_PlayerFrog_Sprite_9.T_PlayerFrog_Sprite_9
+	Asset Type: PaperSprite
+[2023.02.20-13.27.58:538][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.27.58:553][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.27.58:568][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.02.20-13.28.05:668][614]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.28.05:692][614]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.28.05:706][616]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.28.06:720][738]LogContentBrowser: Attempting asset rename: NewFolder -> Frog
+[2023.02.20-13.28.06:720][738]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.28.09:786][ 72]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.28.09:792][ 72]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.28.09:805][ 74]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.28.10:820][196]LogContentBrowser: Attempting asset rename: NewFolder -> Idle
+[2023.02.20-13.28.10:820][196]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.28.13:808][525]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.28.13:814][525]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.28.13:818][526]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.28.14:982][666]LogContentBrowser: Attempting asset rename: NewFolder -> Run
+[2023.02.20-13.28.14:983][666]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.28.17:053][885]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.28.17:065][885]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.28.17:069][886]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.28.18:442][ 51]LogContentBrowser: Attempting asset rename: NewFolder -> Jump
+[2023.02.20-13.28.18:442][ 51]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.28.20:427][256]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.28.20:435][256]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.28.20:440][257]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.28.21:245][354]LogContentBrowser: Attempting asset rename: NewFolder -> Fall
+[2023.02.20-13.28.21:245][354]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.28.31:316][513]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2023.02.20-13.28.31:341][514]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2023.02.20-13.28.31:367][515]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2023.02.20-13.28.46:468][241]LogSlate: Window 'Extract sprites' being destroyed
+[2023.02.20-13.28.54:132][149]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Textures/T_PlayerFrog.T_PlayerFrog
+[2023.02.20-13.28.54:163][149]LogViewport: Scene viewport resized to 2567x1298, mode Windowed.
+[2023.02.20-13.29.22:953][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.29.22:987][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_0
+[2023.02.20-13.29.22:987][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_01C82F4984B4AF3E831E63399CAC7B85E.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_0.uasset'
+[2023.02.20-13.29.22:990][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_1
+[2023.02.20-13.29.22:990][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_1968860454F0E83229131F2BC855A5086.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_1.uasset'
+[2023.02.20-13.29.22:992][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_2
+[2023.02.20-13.29.22:992][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_249ED8DB94DF8E42AA53F1099ACD3650E.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_2.uasset'
+[2023.02.20-13.29.22:995][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_3
+[2023.02.20-13.29.22:995][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_34CA357264B0F35C754C1299D53242E06.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_3.uasset'
+[2023.02.20-13.29.22:997][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_4
+[2023.02.20-13.29.22:997][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_4335796674CA632CD1FCC42B61F989895.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_4.uasset'
+[2023.02.20-13.29.23:000][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_5
+[2023.02.20-13.29.23:000][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_5426055F54D7B7E6F905E9EAB8C24B34F.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_5.uasset'
+[2023.02.20-13.29.23:002][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_6
+[2023.02.20-13.29.23:002][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_6A025774C43C205BE6308F994684B6FE2.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_6.uasset'
+[2023.02.20-13.29.23:005][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_7
+[2023.02.20-13.29.23:005][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_7C8F68A284BF212B92A40E787124435D5.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_7.uasset'
+[2023.02.20-13.29.23:007][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_8
+[2023.02.20-13.29.23:007][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_832031BE843426FBD0491BF88BCDB7AE2.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_8.uasset'
+[2023.02.20-13.29.23:010][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_9
+[2023.02.20-13.29.23:010][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_901C307F143C128B6C37F8980BF8D5386.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_9.uasset'
+[2023.02.20-13.29.23:012][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_10
+[2023.02.20-13.29.23:012][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_1058C98ACD49793F65757A18925E938614.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_10.uasset'
+[2023.02.20-13.29.23:015][547]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_11
+[2023.02.20-13.29.23:015][547]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_11B49FFF1D44C42173AAB26B91B2C8C1F0.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_11.uasset'
+[2023.02.20-13.29.23:020][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 568 ms)
+[2023.02.20-13.29.23:111][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.02.20-13.29.23:131][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.29.23:146][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.29.23:160][547]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_11.T_PlayerFrog_Sprite_11
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_10.T_PlayerFrog_Sprite_10
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_9.T_PlayerFrog_Sprite_9
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_8.T_PlayerFrog_Sprite_8
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_7.T_PlayerFrog_Sprite_7
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_6.T_PlayerFrog_Sprite_6
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_5.T_PlayerFrog_Sprite_5
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_1.T_PlayerFrog_Sprite_1
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_4.T_PlayerFrog_Sprite_4
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_3.T_PlayerFrog_Sprite_3
+[2023.02.20-13.29.23:160][547]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_2.T_PlayerFrog_Sprite_2
+[2023.02.20-13.29.26:625][948]LogContentBrowser: Deferred new asset file creation: T_PlayerFrog
+[2023.02.20-13.29.26:649][948]LogContentBrowser: Creating deferred item: T_PlayerFrog
+[2023.02.20-13.29.26:655][949]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerFrog).
+[2023.02.20-13.29.35:661][ 30]LogContentBrowser: Attempting asset rename: T_PlayerFrog -> T_PlayerFrog_Idle
+[2023.02.20-13.29.35:662][ 30]LogContentBrowser: End creating deferred item T_PlayerFrog
+[2023.02.20-13.29.37:628][265]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+[2023.02.20-13.29.37:629][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.29.37:661][265]LogViewport: Scene viewport resized to 2742x1169, mode Windowed.
+[2023.02.20-13.29.40:352][579]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.29.40:352][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.29.51:964][923]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'PropertyEditor.AddColumnMessage.ColorAndOpacity'.'
+[2023.02.20-13.30.00:305][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.20-13.30.01:245][870]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.30.01:268][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.30.01:283][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.30.01:297][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.30.16:660][661]LogDerivedDataCache: C:/Users/joshd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:51.128 and deleted 0 files with total size 0 MiB. Scanned 60184 files in 51727 folders with total size 2613 MiB.
+[2023.02.20-13.30.18:432][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.30.18:468][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_0
+[2023.02.20-13.30.18:469][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_09D4C56134BB8961C43788B8A09391FC9.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_0.uasset'
+[2023.02.20-13.30.18:472][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_1
+[2023.02.20-13.30.18:473][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_195188B3E485006434E56588C964D9E52.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_1.uasset'
+[2023.02.20-13.30.18:477][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_2
+[2023.02.20-13.30.18:477][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_270FFA1174AC61CFADE32CA90EA61B51B.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_2.uasset'
+[2023.02.20-13.30.18:480][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_3
+[2023.02.20-13.30.18:480][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_3A289B4004ACB32F9BF7B1D80629A3781.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_3.uasset'
+[2023.02.20-13.30.18:483][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_4
+[2023.02.20-13.30.18:484][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_4C9B830A241A12A70BBD46AA152119006.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_4.uasset'
+[2023.02.20-13.30.18:487][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_5
+[2023.02.20-13.30.18:487][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_575941C254124BB6E5AA1E09F164EE954.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_5.uasset'
+[2023.02.20-13.30.18:490][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_6
+[2023.02.20-13.30.18:490][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_6BBF7096E4B0A79699D430382CA572C1C.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_6.uasset'
+[2023.02.20-13.30.18:493][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_7
+[2023.02.20-13.30.18:493][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_7EFFDFE714D891258EAE48BBA7DC37F6F.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_7.uasset'
+[2023.02.20-13.30.18:496][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_8
+[2023.02.20-13.30.18:496][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_82046B27449A5BACDD8D3869C9E23B0C5.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_8.uasset'
+[2023.02.20-13.30.18:499][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_9
+[2023.02.20-13.30.18:499][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_9834FABF2451C832C05FAC6B41BAA8190.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_9.uasset'
+[2023.02.20-13.30.18:502][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_10
+[2023.02.20-13.30.18:503][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_102592D20A4A089E1929B5FAA1DCC840D1.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_10.uasset'
+[2023.02.20-13.30.18:506][861]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_11
+[2023.02.20-13.30.18:506][861]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_116798DD934D304258D7B7E1B906AC3F58.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_11.uasset'
+[2023.02.20-13.30.18:511][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 646 ms)
+[2023.02.20-13.30.18:515][861]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.30.18:515][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_11.T_PlayerFrog_Sprite_11
+[2023.02.20-13.30.18:515][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_10.T_PlayerFrog_Sprite_10
+[2023.02.20-13.30.18:515][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_9.T_PlayerFrog_Sprite_9
+[2023.02.20-13.30.18:516][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_8.T_PlayerFrog_Sprite_8
+[2023.02.20-13.30.18:516][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_7.T_PlayerFrog_Sprite_7
+[2023.02.20-13.30.18:516][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_6.T_PlayerFrog_Sprite_6
+[2023.02.20-13.30.18:516][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_5.T_PlayerFrog_Sprite_5
+[2023.02.20-13.30.18:516][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_1.T_PlayerFrog_Sprite_1
+[2023.02.20-13.30.18:516][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0
+[2023.02.20-13.30.18:516][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_4.T_PlayerFrog_Sprite_4
+[2023.02.20-13.30.18:516][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_3.T_PlayerFrog_Sprite_3
+[2023.02.20-13.30.18:516][861]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_2.T_PlayerFrog_Sprite_2
+[2023.02.20-13.30.25:862][704]LogContentBrowser: Deferred new asset file creation: T_PlayerFrog
+[2023.02.20-13.30.25:872][704]LogContentBrowser: Creating deferred item: T_PlayerFrog
+[2023.02.20-13.30.25:878][705]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerFrog).
+[2023.02.20-13.30.28:909][ 69]LogContentBrowser: Attempting asset rename: T_PlayerFrog -> T_PlayerFrog_Idle
+[2023.02.20-13.30.28:910][ 69]LogContentBrowser: End creating deferred item T_PlayerFrog
+[2023.02.20-13.30.31:935][424]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+[2023.02.20-13.30.31:935][424]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+[2023.02.20-13.30.31:935][424]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_0
+[2023.02.20-13.30.31:936][424]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_0
+[2023.02.20-13.30.32:478][487]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+[2023.02.20-13.30.32:478][487]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+[2023.02.20-13.30.32:479][487]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_1
+[2023.02.20-13.30.32:479][487]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_1
+[2023.02.20-13.30.58:584][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.30.59:691][757]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.30.59:731][757]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+	Asset Type: PaperFlipbook
+[2023.02.20-13.30.59:910][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.20-13.30.59:925][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.20-13.30.59:939][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.31.00:836][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.31.01:803][859]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.31.01:825][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.31.01:841][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.31.01:855][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.31.04:639][169]LogContentBrowser: Deferred new asset file creation: T_PlayerFrog
+[2023.02.20-13.31.04:671][169]LogContentBrowser: Creating deferred item: T_PlayerFrog
+[2023.02.20-13.31.04:678][170]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerFrog).
+[2023.02.20-13.31.07:250][479]LogContentBrowser: Attempting asset rename: T_PlayerFrog -> T_PlayerFrog_Idle
+[2023.02.20-13.31.07:251][479]LogContentBrowser: End creating deferred item T_PlayerFrog
+[2023.02.20-13.31.09:506][740]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+[2023.02.20-13.31.09:506][740]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+[2023.02.20-13.31.09:506][740]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_2
+[2023.02.20-13.31.09:506][740]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_2
+[2023.02.20-13.31.10:058][801]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+[2023.02.20-13.31.10:058][801]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+[2023.02.20-13.31.10:059][801]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_3
+[2023.02.20-13.31.10:059][801]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_3
+[2023.02.20-13.31.42:052][553]Cmd: DELETE
+[2023.02.20-13.31.42:052][553]Cmd: ACTOR DELETE
+[2023.02.20-13.31.42:054][553]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.02.20-13.31.42:070][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.31.42:075][553]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.02.20-13.31.46:913][ 93]Cmd: DELETE
+[2023.02.20-13.31.46:913][ 93]Cmd: ACTOR DELETE
+[2023.02.20-13.31.46:915][ 93]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.02.20-13.31.46:930][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.31.46:933][ 93]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.02.20-13.31.55:255][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.31.56:248][ 87]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.31.56:269][ 87]LogUObjectGlobals: Force Deleting 12 Package(s):
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Idle.T_PlayerFrog_Idle
+	Asset Type: PaperFlipbook
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_1.T_PlayerFrog_Sprite_1
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_2.T_PlayerFrog_Sprite_2
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_3.T_PlayerFrog_Sprite_3
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_4.T_PlayerFrog_Sprite_4
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_5.T_PlayerFrog_Sprite_5
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_6.T_PlayerFrog_Sprite_6
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_7.T_PlayerFrog_Sprite_7
+	Asset Type: PaperSprite
+	Asset Name: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_8.T_PlayerFrog_Sprite_8
+	Asset Type: PaperSprite
+[2023.02.20-13.31.56:595][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.31.56:610][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.31.56:625][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.32.00:324][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.32.01:221][525]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.32.01:246][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.02.20-13.32.01:262][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.20-13.32.01:278][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.32.05:395][975]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2023.02.20-13.32.05:433][976]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2023.02.20-13.32.05:451][977]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2023.02.20-13.32.08:804][304]LogViewport: Scene viewport resized to 687x698, mode Windowed.
+[2023.02.20-13.32.08:834][304]LogViewport: Scene viewport resized to 720x731, mode Windowed.
+[2023.02.20-13.32.08:864][304]LogViewport: Scene viewport resized to 824x796, mode Windowed.
+[2023.02.20-13.32.08:894][304]LogViewport: Scene viewport resized to 969x867, mode Windowed.
+[2023.02.20-13.32.08:924][304]LogViewport: Scene viewport resized to 1062x915, mode Windowed.
+[2023.02.20-13.32.08:964][304]LogViewport: Scene viewport resized to 1119x954, mode Windowed.
+[2023.02.20-13.32.08:994][304]LogViewport: Scene viewport resized to 1202x1007, mode Windowed.
+[2023.02.20-13.32.09:024][304]LogViewport: Scene viewport resized to 1257x1033, mode Windowed.
+[2023.02.20-13.32.09:054][304]LogViewport: Scene viewport resized to 1285x1047, mode Windowed.
+[2023.02.20-13.32.09:084][304]LogViewport: Scene viewport resized to 1317x1062, mode Windowed.
+[2023.02.20-13.32.09:114][304]LogViewport: Scene viewport resized to 1345x1074, mode Windowed.
+[2023.02.20-13.32.09:144][304]LogViewport: Scene viewport resized to 1348x1075, mode Windowed.
+[2023.02.20-13.32.09:374][304]LogViewport: Scene viewport resized to 1348x1074, mode Windowed.
+[2023.02.20-13.32.09:404][304]LogViewport: Scene viewport resized to 1334x1061, mode Windowed.
+[2023.02.20-13.32.09:434][304]LogViewport: Scene viewport resized to 1317x1049, mode Windowed.
+[2023.02.20-13.32.09:464][304]LogViewport: Scene viewport resized to 1302x1040, mode Windowed.
+[2023.02.20-13.32.09:494][304]LogViewport: Scene viewport resized to 1298x1038, mode Windowed.
+[2023.02.20-13.33.01:088][299]LogSlate: Window 'Extract sprites' being destroyed
+[2023.02.20-13.33.04:819][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.02.20-13.33.07:368][740]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.33.50:692][332]LogContentBrowser: Deferred new asset file creation: T_PlayerFrog1
+[2023.02.20-13.33.50:697][332]LogContentBrowser: Creating deferred item: T_PlayerFrog1
+[2023.02.20-13.33.50:706][333]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerFrog1).
+[2023.02.20-13.33.57:653][167]LogContentBrowser: Attempting asset rename: T_PlayerFrog1 -> FB_PlayerIdle
+[2023.02.20-13.33.57:653][167]LogContentBrowser: End creating deferred item T_PlayerFrog1
+[2023.02.20-13.33.59:224][348]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Textures/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-13.33.59:224][348]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Textures/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-13.33.59:224][348]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Textures/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_4
+[2023.02.20-13.33.59:225][348]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Textures/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_4
+[2023.02.20-13.33.59:581][388]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Textures/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-13.33.59:581][388]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Textures/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-13.33.59:582][388]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Textures/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_5
+[2023.02.20-13.33.59:582][388]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Textures/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_5
+[2023.02.20-13.34.02:739][745]Cmd: DELETE
+[2023.02.20-13.34.02:739][745]Cmd: ACTOR DELETE
+[2023.02.20-13.34.02:741][745]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.02.20-13.34.02:758][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.34.02:765][745]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2023.02.20-13.34.19:686][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.34.19:721][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_0
+[2023.02.20-13.34.19:721][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_06B8A124440577B990028A59C0E0ED0E9.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_0.uasset'
+[2023.02.20-13.34.19:724][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_1
+[2023.02.20-13.34.19:724][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_1589259374B442D75095FC8B1A9F98C2F.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_1.uasset'
+[2023.02.20-13.34.19:726][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_2
+[2023.02.20-13.34.19:726][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_25098C1B445D3D2E23A0B1B9E132A3432.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_2.uasset'
+[2023.02.20-13.34.19:729][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_3
+[2023.02.20-13.34.19:729][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_33C606A4D4D314044DCD7CA9DBCDFB79A.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_3.uasset'
+[2023.02.20-13.34.19:731][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_4
+[2023.02.20-13.34.19:731][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_4B186A57E4D521D0367CEC0BA86E41CB0.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_4.uasset'
+[2023.02.20-13.34.19:734][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_5
+[2023.02.20-13.34.19:734][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_5BB2C06D5464BF1379EEF1D8A4F62303B.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_5.uasset'
+[2023.02.20-13.34.19:736][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_6
+[2023.02.20-13.34.19:736][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_69D61311E47CD388BB3EA2C8D1F1CF3A2.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_6.uasset'
+[2023.02.20-13.34.19:739][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_7
+[2023.02.20-13.34.19:739][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_7AE178F9B42D0C15282D5A9A5DE8232A8.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_7.uasset'
+[2023.02.20-13.34.19:741][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_8
+[2023.02.20-13.34.19:741][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_841BE66BC4A6B7DDA5DE4E6841BCBE467.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_8.uasset'
+[2023.02.20-13.34.19:743][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_9
+[2023.02.20-13.34.19:743][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_96816ACFD4C481174ED6547B076EB75C1.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_9.uasset'
+[2023.02.20-13.34.19:746][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_10
+[2023.02.20-13.34.19:746][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_10D78A65D0407398227225ED96AF3EEFF3.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_10.uasset'
+[2023.02.20-13.34.19:747][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Frog/Idle/FB_PlayerIdle" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/FB_PlayerIdle.uasset" SILENT=true
+[2023.02.20-13.34.19:748][733]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/FB_PlayerIdle
+[2023.02.20-13.34.19:748][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerIdle34FF1DB74EA37F7CE0C7AEB10BB95FB1.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/FB_PlayerIdle.uasset'
+[2023.02.20-13.34.19:754][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 714 ms)
+[2023.02.20-13.34.19:840][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.34.19:856][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.34.19:870][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.34.19:884][733]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_1.T_PlayerFrog_Sprite_1
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_2.T_PlayerFrog_Sprite_2
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_0.T_PlayerFrog_Sprite_0
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_9.T_PlayerFrog_Sprite_9
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_8.T_PlayerFrog_Sprite_8
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_7.T_PlayerFrog_Sprite_7
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Sprites/Frog/Idle/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_6.T_PlayerFrog_Sprite_6
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_5.T_PlayerFrog_Sprite_5
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_4.T_PlayerFrog_Sprite_4
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_10.T_PlayerFrog_Sprite_10
+[2023.02.20-13.34.19:884][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Idle/T_PlayerFrog_Sprite_3.T_PlayerFrog_Sprite_3
+[2023.02.20-13.34.37:102][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.34.38:088][148]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.34.38:112][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.02.20-13.34.38:129][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.02.20-13.34.38:144][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.34.56:946][390]LogContentBrowser: Deferred new asset file creation: T_PlayerFrog1
+[2023.02.20-13.34.56:951][390]LogContentBrowser: Creating deferred item: T_PlayerFrog1
+[2023.02.20-13.34.56:959][391]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerFrog1).
+[2023.02.20-13.35.01:522][939]LogContentBrowser: Attempting asset rename: T_PlayerFrog1 -> FB_PlayerRun
+[2023.02.20-13.35.01:523][939]LogContentBrowser: End creating deferred item T_PlayerFrog1
+[2023.02.20-13.35.11:971][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.35.12:013][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_27
+[2023.02.20-13.35.12:013][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_2757EB8D8746FCF43AC471419FF70F6567.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_27.uasset'
+[2023.02.20-13.35.12:016][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_17
+[2023.02.20-13.35.12:016][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_1784080AB84BD47D26CDE3B2AB58AAB307.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_17.uasset'
+[2023.02.20-13.35.12:019][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_18
+[2023.02.20-13.35.12:019][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_186D4E570349F1BEDCF763DD8DEC0C6B01.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_18.uasset'
+[2023.02.20-13.35.12:021][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_19
+[2023.02.20-13.35.12:021][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_19154B6EE54761E1B80C7A328D2DC2080A.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_19.uasset'
+[2023.02.20-13.35.12:024][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_20
+[2023.02.20-13.35.12:024][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_202590DCAE4DFECD9A97A93AAB8876456D.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_20.uasset'
+[2023.02.20-13.35.12:027][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_21
+[2023.02.20-13.35.12:027][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_210FD145004739D4EDE9DBADB8879D4C70.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_21.uasset'
+[2023.02.20-13.35.12:029][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_22
+[2023.02.20-13.35.12:029][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_22768229954FE8F4E702044AB4A0AA5210.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_22.uasset'
+[2023.02.20-13.35.12:032][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_23
+[2023.02.20-13.35.12:032][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_23EB4D22D54D8AFB395CF3B9A1A98BF6B3.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_23.uasset'
+[2023.02.20-13.35.12:034][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_24
+[2023.02.20-13.35.12:034][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_24EDD6ED794F8DEDF51F3042A029B37D00.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_24.uasset'
+[2023.02.20-13.35.12:037][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_25
+[2023.02.20-13.35.12:037][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_25160B2333496AEFFD2CA942A8537EB520.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_25.uasset'
+[2023.02.20-13.35.12:039][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_26
+[2023.02.20-13.35.12:039][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_26EB224F5745D03B345A03E08FCA851BD5.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_26.uasset'
+[2023.02.20-13.35.12:042][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_16
+[2023.02.20-13.35.12:042][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_16790865D949D535C28C240BA545545D07.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_16.uasset'
+[2023.02.20-13.35.12:043][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Frog/Run/FB_PlayerRun" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/FB_PlayerRun.uasset" SILENT=true
+[2023.02.20-13.35.12:044][141]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Run/FB_PlayerRun
+[2023.02.20-13.35.12:044][141]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerRun41E482DE41E57DEDEC5D1CB51B52FA18.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Run/FB_PlayerRun.uasset'
+[2023.02.20-13.35.12:050][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 793 ms)
+[2023.02.20-13.35.12:140][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.35.12:157][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.35.12:172][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.02.20-13.35.12:186][141]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Sprites/Frog/Run/FB_PlayerRun.FB_PlayerRun
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_27.T_PlayerFrog_Sprite_27
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_26.T_PlayerFrog_Sprite_26
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_25.T_PlayerFrog_Sprite_25
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_24.T_PlayerFrog_Sprite_24
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_23.T_PlayerFrog_Sprite_23
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_22.T_PlayerFrog_Sprite_22
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_21.T_PlayerFrog_Sprite_21
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_20.T_PlayerFrog_Sprite_20
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_19.T_PlayerFrog_Sprite_19
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_18.T_PlayerFrog_Sprite_18
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_17.T_PlayerFrog_Sprite_17
+[2023.02.20-13.35.12:186][141]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Run/T_PlayerFrog_Sprite_16.T_PlayerFrog_Sprite_16
+[2023.02.20-13.35.14:480][413]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Sprites/Frog/Idle/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-13.35.14:480][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.35.14:512][413]LogViewport: Scene viewport resized to 2742x1169, mode Windowed.
+[2023.02.20-13.35.21:184][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.35.21:225][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Frog/Idle/FB_PlayerIdle" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/FB_PlayerIdle.uasset" SILENT=true
+[2023.02.20-13.35.21:226][199]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Idle/FB_PlayerIdle
+[2023.02.20-13.35.21:227][199]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerIdleFB7B088F48F422DFF43F1AA59ECB8BFE.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Idle/FB_PlayerIdle.uasset'
+[2023.02.20-13.35.21:232][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 841 ms)
+[2023.02.20-13.35.21:237][199]AssetCheck: New page: Asset Save: FB_PlayerIdle
+[2023.02.20-13.35.21:237][199]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Sprites/Frog/Idle/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-13.35.22:353][333]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.35.22:353][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.35.25:644][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.35.25:674][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.20-13.35.25:692][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.20-13.35.25:703][717]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2023.02.20-13.35.25:703][717]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/Main8B6F880B4830E21AACAE4391671D801A.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Maps/Main.umap'
+[2023.02.20-13.35.25:710][717]LogFileHelpers: Saving map 'Main' took 0.037
+[2023.02.20-13.35.25:715][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 913 ms)
+[2023.02.20-13.35.25:720][717]AssetCheck: New page: Asset Save: Main
+[2023.02.20-13.35.25:720][717]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2023.02.20-13.35.27:939][981]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Sprites/Frog/Run/FB_PlayerRun.FB_PlayerRun
+[2023.02.20-13.35.27:939][981]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.35.27:968][981]LogViewport: Scene viewport resized to 2742x1169, mode Windowed.
+[2023.02.20-13.35.30:592][292]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.35.30:592][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.35.36:709][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.35.39:086][  0]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.35.39:110][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.35.39:125][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.20-13.35.39:140][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.35.50:327][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.02.20-13.35.52:119][325]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.35.52:143][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.20-13.35.52:160][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.35.52:174][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.35.54:026][525]LogContentBrowser: Deferred new asset file creation: T_PlayerFrog1
+[2023.02.20-13.35.54:053][525]LogContentBrowser: Creating deferred item: T_PlayerFrog1
+[2023.02.20-13.35.54:059][526]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerFrog1).
+[2023.02.20-13.35.58:756][ 90]LogContentBrowser: Attempting asset rename: T_PlayerFrog1 -> FB_PlayerFall
+[2023.02.20-13.35.58:757][ 90]LogContentBrowser: End creating deferred item T_PlayerFrog1
+[2023.02.20-13.36.02:199][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.36.02:222][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Frog/Fall/FB_PlayerFall" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Fall/FB_PlayerFall.uasset" SILENT=true
+[2023.02.20-13.36.02:223][493]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Fall/FB_PlayerFall
+[2023.02.20-13.36.02:223][493]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerFall386A0CBB4CEAC1BE5F65C4842DF5F0A1.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Fall/FB_PlayerFall.uasset'
+[2023.02.20-13.36.02:228][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 941 ms)
+[2023.02.20-13.36.02:251][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.20-13.36.02:268][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.36.02:282][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.36.02:295][493]AssetCheck: New page: Asset Save: FB_PlayerFall
+[2023.02.20-13.36.02:295][493]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Sprites/Frog/Fall/FB_PlayerFall.FB_PlayerFall
+[2023.02.20-13.36.05:009][792]LogContentBrowser: Deferred new asset file creation: T_PlayerFrog1
+[2023.02.20-13.36.05:016][792]LogContentBrowser: Creating deferred item: T_PlayerFrog1
+[2023.02.20-13.36.05:021][793]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerFrog1).
+[2023.02.20-13.36.09:936][383]LogContentBrowser: Attempting asset rename: T_PlayerFrog1 -> FB_PlayerJump
+[2023.02.20-13.36.09:936][383]LogContentBrowser: End creating deferred item T_PlayerFrog1
+[2023.02.20-13.36.13:799][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.36.13:836][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Frog/Jump/FB_PlayerJump" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Jump/FB_PlayerJump.uasset" SILENT=true
+[2023.02.20-13.36.13:837][833]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Jump/FB_PlayerJump
+[2023.02.20-13.36.13:837][833]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerJump4A1423F24BDC27C94B201C839C411E2A.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Jump/FB_PlayerJump.uasset'
+[2023.02.20-13.36.13:842][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 984 ms)
+[2023.02.20-13.36.13:865][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.36.13:881][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.20-13.36.13:897][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.36.13:910][833]AssetCheck: New page: Asset Save: FB_PlayerJump
+[2023.02.20-13.36.13:910][833]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Sprites/Frog/Jump/FB_PlayerJump.FB_PlayerJump
+[2023.02.20-13.36.37:205][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.36.37:240][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Frog/Fall/FB_PlayerFall" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Fall/FB_PlayerFall.uasset" SILENT=true
+[2023.02.20-13.36.37:241][605]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Fall/FB_PlayerFall
+[2023.02.20-13.36.37:241][605]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerFallFC6D1E8B4FA878D287E4C0AC039EB09E.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Fall/FB_PlayerFall.uasset'
+[2023.02.20-13.36.37:244][605]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Fall/T_PlayerFrog_Sprite_32
+[2023.02.20-13.36.37:244][605]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_329D1CE14946DB4871F62DCAA83A30C860.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Fall/T_PlayerFrog_Sprite_32.uasset'
+[2023.02.20-13.36.37:250][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.02 sec)
+[2023.02.20-13.36.37:273][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.36.37:289][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.36.37:303][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.36.37:318][605]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.36.37:318][605]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Fall/T_PlayerFrog_Sprite_32.T_PlayerFrog_Sprite_32
+[2023.02.20-13.36.37:318][605]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Sprites/Frog/Fall/FB_PlayerFall.FB_PlayerFall
+[2023.02.20-13.36.47:019][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.36.47:051][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Frog/Jump/FB_PlayerJump" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Jump/FB_PlayerJump.uasset" SILENT=true
+[2023.02.20-13.36.47:052][748]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Jump/FB_PlayerJump
+[2023.02.20-13.36.47:052][748]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerJumpBD28850247DE1BE5E23B1190CA131DB0.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Jump/FB_PlayerJump.uasset'
+[2023.02.20-13.36.47:055][748]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Frog/Jump/T_PlayerFrog_Sprite_40
+[2023.02.20-13.36.47:055][748]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerFrog_Sprite_407E20AA334A3A69A42FE6FEB15C59829B.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Frog/Jump/T_PlayerFrog_Sprite_40.uasset'
+[2023.02.20-13.36.47:060][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.07 sec)
+[2023.02.20-13.36.47:083][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.36.47:099][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.36.47:114][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.36.47:128][748]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.36.47:128][748]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Sprites/Frog/Jump/FB_PlayerJump.FB_PlayerJump
+[2023.02.20-13.36.47:128][748]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Frog/Jump/T_PlayerFrog_Sprite_40.T_PlayerFrog_Sprite_40
+[2023.02.20-13.36.50:447][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.36.50:482][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_PlayerRun" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_PlayerRun.uasset" SILENT=true
+[2023.02.20-13.36.50:483][132]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_PlayerRun
+[2023.02.20-13.36.50:483][132]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerRun077CD79C43F7BB923F4A6DAF89C49747.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_PlayerRun.uasset'
+[2023.02.20-13.36.50:489][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.11 sec)
+[2023.02.20-13.36.50:512][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.20-13.36.50:528][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.36.50:544][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.02.20-13.36.50:558][132]AssetCheck: New page: Asset Save: FB_PlayerRun
+[2023.02.20-13.36.50:558][132]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerRun.FB_PlayerRun
+[2023.02.20-13.36.53:295][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.36.53:333][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_PlayerJump" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_PlayerJump.uasset" SILENT=true
+[2023.02.20-13.36.53:333][449]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_PlayerJump
+[2023.02.20-13.36.53:333][449]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerJump88FCA41D47F807D4D1CD36925AFAAB57.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_PlayerJump.uasset'
+[2023.02.20-13.36.53:339][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.15 sec)
+[2023.02.20-13.36.53:363][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.20-13.36.53:380][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.36.53:395][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.20-13.36.53:409][449]AssetCheck: New page: Asset Save: FB_PlayerJump
+[2023.02.20-13.36.53:409][449]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerJump.FB_PlayerJump
+[2023.02.20-13.36.55:870][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.36.55:893][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_PlayerIdle" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_PlayerIdle.uasset" SILENT=true
+[2023.02.20-13.36.55:894][733]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_PlayerIdle
+[2023.02.20-13.36.55:894][733]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerIdle397D4C8A4D2B3F0CD010458E4D06A087.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_PlayerIdle.uasset'
+[2023.02.20-13.36.55:899][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 1.18 sec)
+[2023.02.20-13.36.55:923][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.02.20-13.36.55:941][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.02.20-13.36.55:956][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.02.20-13.36.55:971][733]AssetCheck: New page: Asset Save: FB_PlayerIdle
+[2023.02.20-13.36.55:971][733]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-13.36.58:818][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.36.58:853][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_PlayerFall" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_PlayerFall.uasset" SILENT=true
+[2023.02.20-13.36.58:854][ 60]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_PlayerFall
+[2023.02.20-13.36.58:854][ 60]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_PlayerFallFD79F44D42FECC2F428E32A5D56492A2.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_PlayerFall.uasset'
+[2023.02.20-13.36.58:859][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.22 sec)
+[2023.02.20-13.36.58:881][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.36.58:897][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.36.58:911][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.36.58:925][ 60]AssetCheck: New page: Asset Save: FB_PlayerFall
+[2023.02.20-13.36.58:925][ 60]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerFall.FB_PlayerFall
+[2023.02.20-13.37.19:938][532]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.37.19:962][532]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.37.19:966][533]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.37.20:922][648]LogContentBrowser: Attempting asset rename: NewFolder -> Mask
+[2023.02.20-13.37.20:923][648]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.37.24:680][ 73]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.37.24:693][ 73]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.37.24:706][ 75]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.37.25:770][203]LogContentBrowser: Attempting asset rename: NewFolder -> Idle
+[2023.02.20-13.37.25:770][203]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.37.27:892][431]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.37.27:904][431]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.37.27:908][432]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.37.28:789][538]LogContentBrowser: Attempting asset rename: NewFolder -> Run
+[2023.02.20-13.37.28:789][538]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.37.31:195][789]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.37.31:204][789]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.37.31:209][790]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.37.32:890][992]LogContentBrowser: Attempting asset rename: NewFolder -> Jump
+[2023.02.20-13.37.32:890][992]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.37.34:873][204]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.37.34:885][204]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.37.34:889][205]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.37.35:787][313]LogContentBrowser: Attempting asset rename: NewFolder -> Fall
+[2023.02.20-13.37.35:787][313]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.37.50:150][ 28]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Textures/T_Bat.T_Bat
+[2023.02.20-13.37.50:180][ 28]LogViewport: Scene viewport resized to 2567x1298, mode Windowed.
+[2023.02.20-13.37.56:111][686]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2023.02.20-13.37.56:148][687]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2023.02.20-13.37.56:167][688]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2023.02.20-13.38.13:063][634]LogViewport: Scene viewport resized to 688x697, mode Windowed.
+[2023.02.20-13.38.13:103][634]LogViewport: Scene viewport resized to 698x706, mode Windowed.
+[2023.02.20-13.38.13:133][634]LogViewport: Scene viewport resized to 837x764, mode Windowed.
+[2023.02.20-13.38.13:163][634]LogViewport: Scene viewport resized to 1079x846, mode Windowed.
+[2023.02.20-13.38.13:193][634]LogViewport: Scene viewport resized to 1308x925, mode Windowed.
+[2023.02.20-13.38.13:233][634]LogViewport: Scene viewport resized to 1425x969, mode Windowed.
+[2023.02.20-13.38.13:263][634]LogViewport: Scene viewport resized to 1451x980, mode Windowed.
+[2023.02.20-13.38.22:282][638]LogSlate: Window 'Extract sprites' being destroyed
+[2023.02.20-13.38.26:706][157]LogContentBrowser: Deferred new asset file creation: T_Bat1
+[2023.02.20-13.38.26:736][157]LogContentBrowser: Creating deferred item: T_Bat1
+[2023.02.20-13.38.26:742][158]LogContentBrowser: Renaming the item being created (Deferred Item: T_Bat1).
+[2023.02.20-13.38.29:756][520]LogContentBrowser: Attempting asset rename: T_Bat1 -> FB_Bat
+[2023.02.20-13.38.29:757][520]LogContentBrowser: End creating deferred item T_Bat1
+[2023.02.20-13.38.33:862][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.38.33:895][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_Bat" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Bat.uasset" SILENT=true
+[2023.02.20-13.38.33:896][999]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_Bat
+[2023.02.20-13.38.33:896][999]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_Bat281BA95147A76D0069F0FB8F01A86479.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Bat.uasset'
+[2023.02.20-13.38.33:901][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.26 sec)
+[2023.02.20-13.38.33:929][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.02.20-13.38.33:950][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.38.33:965][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.02.20-13.38.33:979][999]AssetCheck: New page: Asset Save: FB_Bat
+[2023.02.20-13.38.33:979][999]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_Bat.FB_Bat
+[2023.02.20-13.38.36:991][324]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.38.37:018][324]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.38.37:021][325]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.38.37:961][438]LogContentBrowser: Attempting asset rename: NewFolder -> Bat
+[2023.02.20-13.38.37:962][438]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.38.44:733][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.38.44:766][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_Bat" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Bat.uasset" SILENT=true
+[2023.02.20-13.38.44:767][234]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_Bat
+[2023.02.20-13.38.44:767][234]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_Bat975E6B7641066B144BCC0BB8F248CBC4.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Bat.uasset'
+[2023.02.20-13.38.44:769][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Bat/T_Bat_Sprite_0" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_0.uasset" SILENT=true
+[2023.02.20-13.38.44:770][234]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Bat/T_Bat_Sprite_0
+[2023.02.20-13.38.44:770][234]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Bat_Sprite_0FBF4CE934A03B37ECE250A8613ECBE07.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_0.uasset'
+[2023.02.20-13.38.44:772][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Bat/T_Bat_Sprite_1" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_1.uasset" SILENT=true
+[2023.02.20-13.38.44:773][234]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Bat/T_Bat_Sprite_1
+[2023.02.20-13.38.44:773][234]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Bat_Sprite_1C914D4FB4F8E0F89AD0C7597CFB0BBE1.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_1.uasset'
+[2023.02.20-13.38.44:775][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Bat/T_Bat_Sprite_2" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_2.uasset" SILENT=true
+[2023.02.20-13.38.44:776][234]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Bat/T_Bat_Sprite_2
+[2023.02.20-13.38.44:776][234]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Bat_Sprite_29D69BBB84D99A873CCE83C995D7C49EB.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_2.uasset'
+[2023.02.20-13.38.44:777][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Bat/T_Bat_Sprite_3" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_3.uasset" SILENT=true
+[2023.02.20-13.38.44:779][234]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Bat/T_Bat_Sprite_3
+[2023.02.20-13.38.44:779][234]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Bat_Sprite_3B11A1A5B469ECBF8D8DB86A06F9D65B9.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_3.uasset'
+[2023.02.20-13.38.44:780][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Bat/T_Bat_Sprite_4" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_4.uasset" SILENT=true
+[2023.02.20-13.38.44:781][234]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Bat/T_Bat_Sprite_4
+[2023.02.20-13.38.44:781][234]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Bat_Sprite_48E0776934AD6EAAE165D578C30A1333A.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_4.uasset'
+[2023.02.20-13.38.44:783][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Bat/T_Bat_Sprite_5" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_5.uasset" SILENT=true
+[2023.02.20-13.38.44:784][234]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Bat/T_Bat_Sprite_5
+[2023.02.20-13.38.44:784][234]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Bat_Sprite_5B2B7AB9144A8711C077CD1A9463174E3.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_5.uasset'
+[2023.02.20-13.38.44:785][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Bat/T_Bat_Sprite_6" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_6.uasset" SILENT=true
+[2023.02.20-13.38.44:786][234]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Bat/T_Bat_Sprite_6
+[2023.02.20-13.38.44:786][234]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Bat_Sprite_6CD772ED342A5A30512F394B90BCFA7E0.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Bat/T_Bat_Sprite_6.uasset'
+[2023.02.20-13.38.44:792][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.32 sec)
+[2023.02.20-13.38.44:848][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.20-13.38.44:865][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.38.44:879][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.20-13.38.44:897][234]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.38.44:897][234]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_Bat.FB_Bat
+[2023.02.20-13.38.44:897][234]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Bat/T_Bat_Sprite_6.T_Bat_Sprite_6
+[2023.02.20-13.38.44:897][234]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Bat/T_Bat_Sprite_5.T_Bat_Sprite_5
+[2023.02.20-13.38.44:897][234]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Bat/T_Bat_Sprite_4.T_Bat_Sprite_4
+[2023.02.20-13.38.44:897][234]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Bat/T_Bat_Sprite_3.T_Bat_Sprite_3
+[2023.02.20-13.38.44:897][234]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Bat/T_Bat_Sprite_2.T_Bat_Sprite_2
+[2023.02.20-13.38.44:897][234]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Bat/T_Bat_Sprite_1.T_Bat_Sprite_1
+[2023.02.20-13.38.44:897][234]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Bat/T_Bat_Sprite_0.T_Bat_Sprite_0
+[2023.02.20-13.38.55:133][108]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2023.02.20-13.38.55:153][109]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2023.02.20-13.38.55:184][110]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2023.02.20-13.39.13:364][121]LogSlate: Window 'Extract sprites' being destroyed
+[2023.02.20-13.39.23:229][261]LogContentBrowser: Deferred new asset file creation: T_PlayerMask1
+[2023.02.20-13.39.23:258][261]LogContentBrowser: Creating deferred item: T_PlayerMask1
+[2023.02.20-13.39.23:265][262]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerMask1).
+[2023.02.20-13.39.29:037][955]LogContentBrowser: Attempting asset rename: T_PlayerMask1 -> FB_MaskIdle
+[2023.02.20-13.39.29:038][955]LogContentBrowser: End creating deferred item T_PlayerMask1
+[2023.02.20-13.39.34:346][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.39.34:378][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_MaskIdle" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskIdle.uasset" SILENT=true
+[2023.02.20-13.39.34:379][573]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_MaskIdle
+[2023.02.20-13.39.34:379][573]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_MaskIdle461C5D934E0578A22CBD64AB92DFA45D.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskIdle.uasset'
+[2023.02.20-13.39.34:385][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.36 sec)
+[2023.02.20-13.39.34:407][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.02.20-13.39.34:426][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.39.34:441][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.39.34:455][573]AssetCheck: New page: Asset Save: FB_MaskIdle
+[2023.02.20-13.39.34:455][573]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_MaskIdle.FB_MaskIdle
+[2023.02.20-13.39.40:800][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.39.40:838][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_MaskIdle" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskIdle.uasset" SILENT=true
+[2023.02.20-13.39.40:839][306]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_MaskIdle
+[2023.02.20-13.39.40:839][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_MaskIdle3E8897A44BC71EC8182CBD8AE061A556.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskIdle.uasset'
+[2023.02.20-13.39.40:843][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_0
+[2023.02.20-13.39.40:843][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_0045F973141281F0B9B2475A6A729761D.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_0.uasset'
+[2023.02.20-13.39.40:845][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_1
+[2023.02.20-13.39.40:845][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_13F6AA4E9414C9423C40651B25F5159BE.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_1.uasset'
+[2023.02.20-13.39.40:848][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_2
+[2023.02.20-13.39.40:848][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_2FBA6A68C44091F64CF2813A603255656.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_2.uasset'
+[2023.02.20-13.39.40:850][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_3
+[2023.02.20-13.39.40:850][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_3B235E640404BF6C55C072D8EEF83F129.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_3.uasset'
+[2023.02.20-13.39.40:853][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_4
+[2023.02.20-13.39.40:853][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_4854F6A414C5CB670FD7678BB1C3F9B71.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_4.uasset'
+[2023.02.20-13.39.40:856][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_5
+[2023.02.20-13.39.40:856][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_56C1833874C1C663A0F55E6A7F5F9680A.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_5.uasset'
+[2023.02.20-13.39.40:858][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_6
+[2023.02.20-13.39.40:858][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_6E8D6027C470CDC35347BED8EF3B4BCA3.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_6.uasset'
+[2023.02.20-13.39.40:860][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_7
+[2023.02.20-13.39.40:861][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_780F5D04F42D5C1409E974787DE1BF72F.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_7.uasset'
+[2023.02.20-13.39.40:863][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_8
+[2023.02.20-13.39.40:863][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_883888D014845D0B92ADE43B8C81BF6FE.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_8.uasset'
+[2023.02.20-13.39.40:865][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_9
+[2023.02.20-13.39.40:865][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_9877BD60D45A9D3A6C8393FBBB1A30413.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_9.uasset'
+[2023.02.20-13.39.40:868][306]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_10
+[2023.02.20-13.39.40:868][306]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_105B2B684248CE582CD8ED53B570723037.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_10.uasset'
+[2023.02.20-13.39.40:874][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.43 sec)
+[2023.02.20-13.39.40:956][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.39.40:973][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.39.40:987][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.39.41:009][306]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_MaskIdle.FB_MaskIdle
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_10.T_PlayerMask_Sprite_10
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_9.T_PlayerMask_Sprite_9
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_8.T_PlayerMask_Sprite_8
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_7.T_PlayerMask_Sprite_7
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_6.T_PlayerMask_Sprite_6
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_5.T_PlayerMask_Sprite_5
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_4.T_PlayerMask_Sprite_4
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_3.T_PlayerMask_Sprite_3
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_2.T_PlayerMask_Sprite_2
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_1.T_PlayerMask_Sprite_1
+[2023.02.20-13.39.41:009][306]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Idle/T_PlayerMask_Sprite_0.T_PlayerMask_Sprite_0
+[2023.02.20-13.39.47:307][ 35]LogContentBrowser: Deferred new asset file creation: T_PlayerMask1
+[2023.02.20-13.39.47:333][ 35]LogContentBrowser: Creating deferred item: T_PlayerMask1
+[2023.02.20-13.39.47:340][ 36]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerMask1).
+[2023.02.20-13.39.50:512][417]LogContentBrowser: Attempting asset rename: T_PlayerMask1 -> FB_MaskRun
+[2023.02.20-13.39.50:513][417]LogContentBrowser: End creating deferred item T_PlayerMask1
+[2023.02.20-13.39.55:414][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.39.55:452][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_MaskRun" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskRun.uasset" SILENT=true
+[2023.02.20-13.39.55:453][989]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_MaskRun
+[2023.02.20-13.39.55:453][989]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_MaskRunB52AC0FB4D3B5A9413681EA3A7B1EAA9.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskRun.uasset'
+[2023.02.20-13.39.55:458][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.48 sec)
+[2023.02.20-13.39.55:482][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.20-13.39.55:500][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.20-13.39.55:515][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.39.55:530][989]AssetCheck: New page: Asset Save: FB_MaskRun
+[2023.02.20-13.39.55:530][989]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_MaskRun.FB_MaskRun
+[2023.02.20-13.40.00:792][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.40.00:823][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_MaskRun" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskRun.uasset" SILENT=true
+[2023.02.20-13.40.00:824][598]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_MaskRun
+[2023.02.20-13.40.00:824][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_MaskRunE9271B8A4FEBA78B6E0C34981511F27E.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskRun.uasset'
+[2023.02.20-13.40.00:827][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_16
+[2023.02.20-13.40.00:827][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_1617E32BD343EBAE5B6D7D94BF6AB261CC.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_16.uasset'
+[2023.02.20-13.40.00:830][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_17
+[2023.02.20-13.40.00:830][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_171B02E0F24A0540E09A883B8195769615.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_17.uasset'
+[2023.02.20-13.40.00:833][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_18
+[2023.02.20-13.40.00:833][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_18D1CFBE934503CF33CC7FFAB42C3709A1.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_18.uasset'
+[2023.02.20-13.40.00:836][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_19
+[2023.02.20-13.40.00:836][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_195A2382524267401A8A6C8C98327434C5.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_19.uasset'
+[2023.02.20-13.40.00:838][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_20
+[2023.02.20-13.40.00:838][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_20E1798CD4406473EE117E0DB0A49ABE21.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_20.uasset'
+[2023.02.20-13.40.00:841][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_21
+[2023.02.20-13.40.00:841][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_21115F94EE492676BB7A0F9B8C942CA75C.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_21.uasset'
+[2023.02.20-13.40.00:843][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_22
+[2023.02.20-13.40.00:843][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_2234DABBDE4E825875E529489D468944A9.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_22.uasset'
+[2023.02.20-13.40.00:846][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_23
+[2023.02.20-13.40.00:846][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_23AACADF844A6D683AA74C27A78E1693DA.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_23.uasset'
+[2023.02.20-13.40.00:848][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_24
+[2023.02.20-13.40.00:848][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_24C433D0024AB77122A62D22AF59B4A86C.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_24.uasset'
+[2023.02.20-13.40.00:851][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_25
+[2023.02.20-13.40.00:851][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_2567E63DD140601B5EA92B75BE673B4885.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_25.uasset'
+[2023.02.20-13.40.00:853][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_26
+[2023.02.20-13.40.00:853][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_262D25114D419023A561758C926545AB95.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_26.uasset'
+[2023.02.20-13.40.00:856][598]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_27
+[2023.02.20-13.40.00:856][598]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_277C2B829541531618C979689AA46EE00B.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_27.uasset'
+[2023.02.20-13.40.00:861][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.55 sec)
+[2023.02.20-13.40.00:947][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.40.00:963][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.40.00:977][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.40.00:994][598]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_27.T_PlayerMask_Sprite_27
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_26.T_PlayerMask_Sprite_26
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_25.T_PlayerMask_Sprite_25
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_24.T_PlayerMask_Sprite_24
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_23.T_PlayerMask_Sprite_23
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_22.T_PlayerMask_Sprite_22
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_21.T_PlayerMask_Sprite_21
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_20.T_PlayerMask_Sprite_20
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_19.T_PlayerMask_Sprite_19
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_18.T_PlayerMask_Sprite_18
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_17.T_PlayerMask_Sprite_17
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Run/T_PlayerMask_Sprite_16.T_PlayerMask_Sprite_16
+[2023.02.20-13.40.00:994][598]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_MaskRun.FB_MaskRun
+[2023.02.20-13.40.05:082][ 66]LogContentBrowser: Deferred new asset file creation: T_PlayerMask1
+[2023.02.20-13.40.05:107][ 66]LogContentBrowser: Creating deferred item: T_PlayerMask1
+[2023.02.20-13.40.05:114][ 67]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerMask1).
+[2023.02.20-13.40.09:919][644]LogContentBrowser: Attempting asset rename: T_PlayerMask1 -> FB_MaskFall
+[2023.02.20-13.40.09:920][644]LogContentBrowser: End creating deferred item T_PlayerMask1
+[2023.02.20-13.40.13:174][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.40.13:206][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_MaskFall" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskFall.uasset" SILENT=true
+[2023.02.20-13.40.13:207][ 25]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_MaskFall
+[2023.02.20-13.40.13:207][ 25]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_MaskFall51B1C591427D7981068241A93C0D46CA.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskFall.uasset'
+[2023.02.20-13.40.13:212][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.58 sec)
+[2023.02.20-13.40.13:233][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.40.13:249][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.20-13.40.13:263][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.40.13:278][ 25]AssetCheck: New page: Asset Save: FB_MaskFall
+[2023.02.20-13.40.13:278][ 25]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_MaskFall.FB_MaskFall
+[2023.02.20-13.40.17:980][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.40.18:017][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_MaskFall" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskFall.uasset" SILENT=true
+[2023.02.20-13.40.18:017][551]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_MaskFall
+[2023.02.20-13.40.18:017][551]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_MaskFall1C2D978B44EBA9A9E4C52FB27E0E2B39.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskFall.uasset'
+[2023.02.20-13.40.18:020][551]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Fall/T_PlayerMask_Sprite_32
+[2023.02.20-13.40.18:020][551]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_324A62E3F34BA9C39AEBB7DDB2C6E793AF.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Fall/T_PlayerMask_Sprite_32.uasset'
+[2023.02.20-13.40.18:025][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1.63 sec)
+[2023.02.20-13.40.18:047][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.40.18:064][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.40.18:078][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.40.18:093][551]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.40.18:093][551]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Fall/T_PlayerMask_Sprite_32.T_PlayerMask_Sprite_32
+[2023.02.20-13.40.18:093][551]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_MaskFall.FB_MaskFall
+[2023.02.20-13.40.23:114][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.40.25:189][134]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.40.25:216][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.20-13.40.25:232][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.40.25:249][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.40.27:616][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.02.20-13.40.28:467][395]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.40.28:492][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.40.28:507][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.40.28:521][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.40.30:314][589]LogContentBrowser: Deferred new asset file creation: T_PlayerMask1
+[2023.02.20-13.40.30:342][589]LogContentBrowser: Creating deferred item: T_PlayerMask1
+[2023.02.20-13.40.30:348][590]LogContentBrowser: Renaming the item being created (Deferred Item: T_PlayerMask1).
+[2023.02.20-13.40.33:995][ 28]LogContentBrowser: Attempting asset rename: T_PlayerMask1 -> FB_MaskJump
+[2023.02.20-13.40.33:996][ 28]LogContentBrowser: End creating deferred item T_PlayerMask1
+[2023.02.20-13.40.37:237][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.40.37:272][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_MaskJump" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskJump.uasset" SILENT=true
+[2023.02.20-13.40.37:272][400]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_MaskJump
+[2023.02.20-13.40.37:272][400]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_MaskJump8CDDE25D46D90F4AF582C7B4C1EBEB2C.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskJump.uasset'
+[2023.02.20-13.40.37:278][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.67 sec)
+[2023.02.20-13.40.37:300][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.40.37:316][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.20-13.40.37:331][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.02.20-13.40.37:345][400]AssetCheck: New page: Asset Save: FB_MaskJump
+[2023.02.20-13.40.37:345][400]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_MaskJump.FB_MaskJump
+[2023.02.20-13.40.40:702][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.40.40:731][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_MaskJump" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskJump.uasset" SILENT=true
+[2023.02.20-13.40.40:732][786]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_MaskJump
+[2023.02.20-13.40.40:732][786]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_MaskJump60CEDBC140EE55994D0376A749B62110.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_MaskJump.uasset'
+[2023.02.20-13.40.40:735][786]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Mask/Jump/T_PlayerMask_Sprite_40
+[2023.02.20-13.40.40:735][786]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_PlayerMask_Sprite_4038A215B44465AE621F390FBABA68B067.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Mask/Jump/T_PlayerMask_Sprite_40.uasset'
+[2023.02.20-13.40.40:740][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.71 sec)
+[2023.02.20-13.40.40:763][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.40.40:778][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.20-13.40.40:793][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.40.40:807][786]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.40.40:807][786]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_MaskJump.FB_MaskJump
+[2023.02.20-13.40.40:807][786]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Mask/Jump/T_PlayerMask_Sprite_40.T_PlayerMask_Sprite_40
+[2023.02.20-13.40.47:687][559]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2023.02.20-13.40.47:725][560]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2023.02.20-13.40.47:743][561]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2023.02.20-13.40.54:198][644]LogSlate: Window 'Extract sprites' being destroyed
+[2023.02.20-13.40.57:485][ 18]LogContentBrowser: Deferred new asset file creation: T_Hearts1
+[2023.02.20-13.40.57:509][ 18]LogContentBrowser: Creating deferred item: T_Hearts1
+[2023.02.20-13.40.57:514][ 19]LogContentBrowser: Renaming the item being created (Deferred Item: T_Hearts1).
+[2023.02.20-13.41.01:712][523]LogContentBrowser: Attempting asset rename: T_Hearts1 -> FB_Hearts
+[2023.02.20-13.41.01:712][523]LogContentBrowser: End creating deferred item T_Hearts1
+[2023.02.20-13.41.03:216][700]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Textures/FB_Hearts.FB_Hearts
+[2023.02.20-13.41.03:216][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.41.03:246][700]LogViewport: Scene viewport resized to 2742x1169, mode Windowed.
+[2023.02.20-13.41.05:909][ 15]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.41.05:909][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.41.08:479][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.41.08:518][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_Hearts" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Hearts.uasset" SILENT=true
+[2023.02.20-13.41.08:519][303]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_Hearts
+[2023.02.20-13.41.08:519][303]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_Hearts92D5CC7E4C9E4A96B260538811308CAA.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Hearts.uasset'
+[2023.02.20-13.41.08:525][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1.75 sec)
+[2023.02.20-13.41.08:550][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.20-13.41.08:568][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.41.08:583][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.41.08:597][303]AssetCheck: New page: Asset Save: FB_Hearts
+[2023.02.20-13.41.08:597][303]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts
+[2023.02.20-13.41.12:137][687]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.41.12:162][687]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.41.12:166][688]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.41.13:622][863]LogContentBrowser: Attempting asset rename: NewFolder -> Hearts
+[2023.02.20-13.41.13:623][863]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.41.20:528][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.41.20:560][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_Hearts" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Hearts.uasset" SILENT=true
+[2023.02.20-13.41.20:561][673]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_Hearts
+[2023.02.20-13.41.20:561][673]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_HeartsA2DE13504A2AFCA9F4C1B7A772F451AE.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Hearts.uasset'
+[2023.02.20-13.41.20:563][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Hearts/T_Hearts_Sprite_0" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_0.uasset" SILENT=true
+[2023.02.20-13.41.20:564][673]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_0
+[2023.02.20-13.41.20:564][673]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Hearts_Sprite_08C88C7D14BEB68D0026E1E842D21A45E.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_0.uasset'
+[2023.02.20-13.41.20:566][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Hearts/T_Hearts_Sprite_1" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_1.uasset" SILENT=true
+[2023.02.20-13.41.20:567][673]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_1
+[2023.02.20-13.41.20:567][673]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Hearts_Sprite_1E6BF780C4EA7F8F3452B56AEBF570E4F.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_1.uasset'
+[2023.02.20-13.41.20:568][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Hearts/T_Hearts_Sprite_2" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_2.uasset" SILENT=true
+[2023.02.20-13.41.20:569][673]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_2
+[2023.02.20-13.41.20:569][673]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Hearts_Sprite_2A306C3EF425FBEC3F941418CEC6B1595.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_2.uasset'
+[2023.02.20-13.41.20:571][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Hearts/T_Hearts_Sprite_3" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_3.uasset" SILENT=true
+[2023.02.20-13.41.20:572][673]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_3
+[2023.02.20-13.41.20:572][673]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Hearts_Sprite_3ED4B1F1644A0F4C66AE97090A3064E29.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_3.uasset'
+[2023.02.20-13.41.20:573][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Hearts/T_Hearts_Sprite_4" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_4.uasset" SILENT=true
+[2023.02.20-13.41.20:574][673]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_4
+[2023.02.20-13.41.20:574][673]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Hearts_Sprite_43CFF307C41EC380F7D7351AB32554ECB.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_4.uasset'
+[2023.02.20-13.41.20:576][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Hearts/T_Hearts_Sprite_5" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_5.uasset" SILENT=true
+[2023.02.20-13.41.20:577][673]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_5
+[2023.02.20-13.41.20:577][673]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Hearts_Sprite_5568A5932419A5910DFE0A2A26659B4CF.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_5.uasset'
+[2023.02.20-13.41.20:579][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Hearts/T_Hearts_Sprite_6" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_6.uasset" SILENT=true
+[2023.02.20-13.41.20:580][673]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_6
+[2023.02.20-13.41.20:580][673]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Hearts_Sprite_6DDAA1C644EE59DABA14BF9824C9E4BF4.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_6.uasset'
+[2023.02.20-13.41.20:581][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Hearts/T_Hearts_Sprite_7" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_7.uasset" SILENT=true
+[2023.02.20-13.41.20:582][673]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_7
+[2023.02.20-13.41.20:582][673]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Hearts_Sprite_77502C4994A39F5EEFB05D5AF126A82A0.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Hearts/T_Hearts_Sprite_7.uasset'
+[2023.02.20-13.41.20:587][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.81 sec)
+[2023.02.20-13.41.20:652][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.02.20-13.41.20:669][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.41.20:684][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.41.20:697][673]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.41.20:697][673]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts
+[2023.02.20-13.41.20:697][673]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_7.T_Hearts_Sprite_7
+[2023.02.20-13.41.20:697][673]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_6.T_Hearts_Sprite_6
+[2023.02.20-13.41.20:697][673]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_5.T_Hearts_Sprite_5
+[2023.02.20-13.41.20:697][673]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_1.T_Hearts_Sprite_1
+[2023.02.20-13.41.20:697][673]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_4.T_Hearts_Sprite_4
+[2023.02.20-13.41.20:697][673]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_0.T_Hearts_Sprite_0
+[2023.02.20-13.41.20:697][673]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_3.T_Hearts_Sprite_3
+[2023.02.20-13.41.20:697][673]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Hearts/T_Hearts_Sprite_2.T_Hearts_Sprite_2
+[2023.02.20-13.41.26:153][271]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2023.02.20-13.41.26:172][272]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2023.02.20-13.41.26:195][273]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2023.02.20-13.41.37:757][628]LogSlate: Window 'Extract sprites' being destroyed
+[2023.02.20-13.41.41:350][ 41]LogContentBrowser: Deferred new asset file creation: T_Spring1
+[2023.02.20-13.41.41:378][ 41]LogContentBrowser: Creating deferred item: T_Spring1
+[2023.02.20-13.41.41:384][ 42]LogContentBrowser: Renaming the item being created (Deferred Item: T_Spring1).
+[2023.02.20-13.41.44:973][473]LogContentBrowser: Attempting asset rename: T_Spring1 -> FB_Spring
+[2023.02.20-13.41.44:974][473]LogContentBrowser: End creating deferred item T_Spring1
+[2023.02.20-13.41.50:813][128]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.20-13.41.50:820][128]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.20-13.41.50:825][129]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.20-13.41.56:264][782]LogContentBrowser: Attempting asset rename: NewFolder -> Spring
+[2023.02.20-13.41.56:264][782]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.20-13.42.03:077][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.42.03:111][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_Spring" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Spring.uasset" SILENT=true
+[2023.02.20-13.42.03:112][460]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_Spring
+[2023.02.20-13.42.03:112][460]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_Spring436A3C26457B6B71387981A1AE2EA848.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Spring.uasset'
+[2023.02.20-13.42.03:118][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.85 sec)
+[2023.02.20-13.42.03:143][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.02.20-13.42.03:162][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.20-13.42.03:177][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.42.03:200][460]AssetCheck: New page: Asset Save: FB_Spring
+[2023.02.20-13.42.03:200][460]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_Spring.FB_Spring
+[2023.02.20-13.42.07:331][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.42.07:371][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_Spring" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Spring.uasset" SILENT=true
+[2023.02.20-13.42.07:372][945]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_Spring
+[2023.02.20-13.42.07:372][945]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_Spring525531CD4CF678F4586AEAB927D25723.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Spring.uasset'
+[2023.02.20-13.42.07:374][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Spring/T_Spring_Sprite_0" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_0.uasset" SILENT=true
+[2023.02.20-13.42.07:375][945]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Spring/T_Spring_Sprite_0
+[2023.02.20-13.42.07:375][945]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Spring_Sprite_0C88A31A347F3BCF06A20DFAD3E0DD122.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_0.uasset'
+[2023.02.20-13.42.07:376][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Spring/T_Spring_Sprite_1" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_1.uasset" SILENT=true
+[2023.02.20-13.42.07:377][945]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Spring/T_Spring_Sprite_1
+[2023.02.20-13.42.07:377][945]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Spring_Sprite_18450ACDB404053EA5A6440B2BFF4D0E6.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_1.uasset'
+[2023.02.20-13.42.07:379][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Spring/T_Spring_Sprite_2" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_2.uasset" SILENT=true
+[2023.02.20-13.42.07:380][945]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Spring/T_Spring_Sprite_2
+[2023.02.20-13.42.07:380][945]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Spring_Sprite_23E8370F44B4AD63795C3A09F905D82A3.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_2.uasset'
+[2023.02.20-13.42.07:381][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Spring/T_Spring_Sprite_3" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_3.uasset" SILENT=true
+[2023.02.20-13.42.07:382][945]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Spring/T_Spring_Sprite_3
+[2023.02.20-13.42.07:382][945]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Spring_Sprite_3109894AF49BD62C739C8DFB02E7C569B.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_3.uasset'
+[2023.02.20-13.42.07:384][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Spring/T_Spring_Sprite_4" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_4.uasset" SILENT=true
+[2023.02.20-13.42.07:385][945]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Spring/T_Spring_Sprite_4
+[2023.02.20-13.42.07:385][945]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Spring_Sprite_48C3454104CDF732179F006B072C70078.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_4.uasset'
+[2023.02.20-13.42.07:386][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Spring/T_Spring_Sprite_5" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_5.uasset" SILENT=true
+[2023.02.20-13.42.07:387][945]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Spring/T_Spring_Sprite_5
+[2023.02.20-13.42.07:387][945]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Spring_Sprite_5E6E0EE9F462660F0C9D6A9831B60A8EB.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_5.uasset'
+[2023.02.20-13.42.07:389][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Spring/T_Spring_Sprite_6" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_6.uasset" SILENT=true
+[2023.02.20-13.42.07:390][945]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Spring/T_Spring_Sprite_6
+[2023.02.20-13.42.07:390][945]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Spring_Sprite_629B114AE4E0CBE364168BFBAAC19F1F9.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_6.uasset'
+[2023.02.20-13.42.07:391][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Spring/T_Spring_Sprite_7" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_7.uasset" SILENT=true
+[2023.02.20-13.42.07:392][945]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Spring/T_Spring_Sprite_7
+[2023.02.20-13.42.07:392][945]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Spring_Sprite_72A7ED1FF492B4ECFE81B728D4FFB284C.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_7.uasset'
+[2023.02.20-13.42.07:394][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sprites/Spring/T_Spring_Sprite_8" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_8.uasset" SILENT=true
+[2023.02.20-13.42.07:395][945]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/Spring/T_Spring_Sprite_8
+[2023.02.20-13.42.07:395][945]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/T_Spring_Sprite_848C9589841F5468FA69466B4A42F1F52.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_8.uasset'
+[2023.02.20-13.42.07:400][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.92 sec)
+[2023.02.20-13.42.07:475][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.20-13.42.07:491][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.20-13.42.07:505][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.20-13.42.07:523][945]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.20-13.42.07:523][945]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_Spring.FB_Spring
+[2023.02.20-13.42.07:523][945]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Spring/T_Spring_Sprite_8.T_Spring_Sprite_8
+[2023.02.20-13.42.07:523][945]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Spring/T_Spring_Sprite_7.T_Spring_Sprite_7
+[2023.02.20-13.42.07:523][945]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Spring/T_Spring_Sprite_6.T_Spring_Sprite_6
+[2023.02.20-13.42.07:523][945]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Spring/T_Spring_Sprite_5.T_Spring_Sprite_5
+[2023.02.20-13.42.07:523][945]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Spring/T_Spring_Sprite_4.T_Spring_Sprite_4
+[2023.02.20-13.42.07:523][945]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Spring/T_Spring_Sprite_3.T_Spring_Sprite_3
+[2023.02.20-13.42.07:523][945]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Spring/T_Spring_Sprite_2.T_Spring_Sprite_2
+[2023.02.20-13.42.07:523][945]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Spring/T_Spring_Sprite_1.T_Spring_Sprite_1
+[2023.02.20-13.42.07:523][945]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Sprites/Spring/T_Spring_Sprite_0.T_Spring_Sprite_0
+[2023.02.20-13.42.09:936][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.42.11:819][230]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.20-13.42.11:843][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.42.11:858][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.20-13.42.11:872][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.20-13.42.13:614][417]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Textures/T_Terrain.T_Terrain
+[2023.02.20-13.42.13:645][417]LogViewport: Scene viewport resized to 2567x1298, mode Windowed.
+[2023.02.20-13.42.34:176][818]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2023.02.20-13.42.34:176][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.42.40:820][527]LogViewport: Scene viewport resized to 2053x1013, mode Windowed.
+[2023.02.20-13.42.47:182][ 23]LogShaderCompilers: Display: ================================================
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Total job queries 154, among them cache hits 20 (12.99%)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Tracking 125 distinct input hashes that result in 103 distinct outputs (82.40%)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: RAM used: 1.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Shaders Compiled: 42
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Jobs assigned 51, completed 42 (82.35%)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Average time worker was idle: 1151.70 s
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.17 s
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 0.87 s
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Job life time (pending + execution): average 0.65 s, max 0.93
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.13 s
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Jobs were issued in 51 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Average processing rate: 5.89 jobs/sec
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Total thread time: 16.32 s
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Total thread preprocess time: 0.91 s
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Percentage time preprocessing: 5.60%
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Effective parallelization: 2.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.54 sec, max 0.73 sec, min 0.42 sec)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.45 sec, max 0.60 sec, min 0.37 sec)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 0.42 sec, max 0.72 sec, min 0.34 sec)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.63% of total time (compiled    8 times, average 0.54 sec, max 0.73 sec, min 0.42 sec)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.11% of total time (compiled    8 times, average 0.45 sec, max 0.60 sec, min 0.37 sec)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.68% of total time (compiled    8 times, average 0.42 sec, max 0.72 sec, min 0.34 sec)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.72% of total time (compiled    9 times, average 0.32 sec, max 0.54 sec, min 0.23 sec)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 3.09% of total time (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2023.02.20-13.42.47:183][ 23]LogShaderCompilers: Display: ================================================
+[2023.02.20-13.43.44:083][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.43.44:120][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2023.02.20-13.43.44:124][302]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerBase
+[2023.02.20-13.43.44:124][302]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/BP_PlayerBase058CDE1548483F58AD7D6BA485B48882.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Blueprints/BP_PlayerBase.uasset'
+[2023.02.20-13.43.44:130][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.97 sec)
+[2023.02.20-13.43.44:136][302]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2023.02.20-13.43.44:136][302]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2023.02.20-13.43.47:157][647]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.20-13.43.47:167][647]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.20-13.43.47:167][647]LogPlayLevel: [PlayLevel] Compiling BP_PlayerBase before play...
+[2023.02.20-13.43.47:231][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.02.20-13.43.47:235][647]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2023.02.20-13.43.47:235][647]PIE: New page: PIE session: Main (20 Feb 2023, 13:43:47)
+[2023.02.20-13.43.47:236][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.02.20-13.43.47:237][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001388s)
+[2023.02.20-13.43.47:237][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001412s)
+[2023.02.20-13.43.47:237][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.43.47:237][647]LogAIModule: Creating AISystem for world Main
+[2023.02.20-13.43.47:238][647]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2023.02.20-13.43.47:258][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.20-13.43.47:259][647]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.02.20-13.43.47:259][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.20-13.43.47:259][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.20-13.43.47:259][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.20-13.43.47:259][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.20-13.43.47:259][647]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.20-13.43.47:259][647]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.20-13.43.47:259][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.20-13.43.47:259][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.20-13.43.47:259][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.20-13.43.47:259][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.20-13.43.47:259][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.20-13.43.47:261][647]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.20-13.43.47:375][647]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2023.02.20-13.43.47:375][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.20-13.43.47:375][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.20-13.43.47:375][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.20-13.43.47:375][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.02.20-13.43.47:375][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.02.20-13.43.47:377][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.02.20-13.43.47:377][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.02.20-13.43.47:377][647]LogInit: FAudioDevice initialized.
+[2023.02.20-13.43.47:377][647]LogAudio: Display: Audio Device (ID: 12) registered with world 'Main'.
+[2023.02.20-13.43.47:379][647]LogLoad: Game class is 'BP_GameModeBase_C'
+[2023.02.20-13.43.47:380][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.02.20-13.43.47
+[2023.02.20-13.43.47:380][647]LogWorld: Bringing up level for play took: 0.000442
+[2023.02.20-13.43.47:381][647]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.02.20-13.43.47:382][647]PIE: Server logged in
+[2023.02.20-13.43.47:382][647]PIE: Play in editor total start time 0.216 seconds.
+[2023.02.20-13.43.53:635][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.43.53:635][380]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.02.20-13.43.53:635][380]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.43.53:635][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.43.53:639][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-13.43.53:643][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.43.53:663][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.43.53:664][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.02.20-13.43.53:665][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.02.20-13.43.53:670][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.02.20-13.43.53:692][381]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.02.20-13.47.04:298][480]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts
+[2023.02.20-13.47.04:299][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-13.47.04:329][480]LogViewport: Scene viewport resized to 2742x1169, mode Windowed.
+[2023.02.20-13.47.08:882][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-13.47.08:917][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipbooks/FB_Hearts" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Hearts.uasset" SILENT=true
+[2023.02.20-13.47.08:918][  4]LogSavePackage: Moving output files for package: /Game/Assets/Flipbooks/FB_Hearts
+[2023.02.20-13.47.08:918][  4]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/FB_HeartsB7E4CA574EDC85BC25D771BE0DDCD706.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Flipbooks/FB_Hearts.uasset'
+[2023.02.20-13.47.08:924][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 2.01 sec)
+[2023.02.20-13.47.08:929][  4]AssetCheck: New page: Asset Save: FB_Hearts
+[2023.02.20-13.47.08:929][  4]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts
+[2023.02.20-13.47.09:715][ 94]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.47.09:715][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-14.01.21:656][616]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Acer K242HQK (NVIDIA High Definition Audio), InstanceID=1
+[2023.02.20-14.01.21:853][616]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=36192
+[2023.02.20-14.01.22:186][617]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b679ef29-4958-4d1f-a83d-97a1ce5d7125}, Name=Acer K242HQK (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=24.40
+[2023.02.20-14.01.22:186][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.02.20-14.01.22:187][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.02.20-14.30.16:612][820]LogDerivedDataCache: C:/Users/joshd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:51.080 and deleted 0 files with total size 0 MiB. Scanned 60202 files in 51744 folders with total size 2613 MiB.
+[2023.02.20-14.53.14:359][954]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-14.53.14:359][954]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-14.53.14:359][954]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_6
+[2023.02.20-14.53.14:360][954]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_6
+[2023.02.20-14.53.15:390][ 61]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-14.53.15:390][ 61]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-14.53.15:391][ 61]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_7
+[2023.02.20-14.53.15:391][ 61]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_7
+[2023.02.20-14.53.33:372][182]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.20-14.53.33:375][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-14.53.33:375][182]PIE: New page: PIE session: Main (20 Feb 2023, 14:53:33)
+[2023.02.20-14.53.33:403][182]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.02.20-14.53.33:405][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001623s)
+[2023.02.20-14.53.33:405][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001653s)
+[2023.02.20-14.53.33:405][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.20-14.53.33:405][182]LogAIModule: Creating AISystem for world Main
+[2023.02.20-14.53.33:405][182]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2023.02.20-14.53.33:431][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.02.20-14.53.33:434][182]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.02.20-14.53.33:434][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.20-14.53.33:434][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.20-14.53.33:434][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.20-14.53.33:434][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.20-14.53.33:434][182]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.20-14.53.33:434][182]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.20-14.53.33:434][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.20-14.53.33:434][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.20-14.53.33:434][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.20-14.53.33:434][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.20-14.53.33:434][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.20-14.53.33:436][182]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.20-14.53.33:452][182]LogAudioMixer: Display: Using Audio Hardware Device Acer K242HQK (NVIDIA High Definition Audio)
+[2023.02.20-14.53.33:452][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.20-14.53.33:452][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.20-14.53.33:452][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.20-14.53.33:453][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.02.20-14.53.33:453][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.02.20-14.53.33:454][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.02.20-14.53.33:454][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.02.20-14.53.33:454][182]LogInit: FAudioDevice initialized.
+[2023.02.20-14.53.33:454][182]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main'.
+[2023.02.20-14.53.33:456][182]LogLoad: Game class is 'BP_GameModeBase_C'
+[2023.02.20-14.53.33:457][182]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.02.20-14.53.33
+[2023.02.20-14.53.33:457][182]LogWorld: Bringing up level for play took: 0.000510
+[2023.02.20-14.53.33:458][182]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.02.20-14.53.33:459][182]PIE: Server logged in
+[2023.02.20-14.53.33:460][182]PIE: Play in editor total start time 0.084 seconds.
+[2023.02.20-14.54.44:606][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-14.54.44:606][703]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.02.20-14.54.44:606][703]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-14.54.44:606][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-14.54.44:609][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-14.54.44:613][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-14.54.44:634][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.20-14.54.44:635][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.20-14.54.44:636][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.20-14.54.44:639][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-14.54.44:641][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.02.20-14.54.44:674][704]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.02.20-14.55.03:618][926]Cmd: DELETE
+[2023.02.20-14.55.03:618][926]Cmd: ACTOR DELETE
+[2023.02.20-14.55.03:620][926]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.02.20-14.55.03:643][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.02.20-14.55.03:645][926]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2023.02.20-14.55.28:614][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.20-14.55.28:616][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/Autosaves/Game/Maps/Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.20-14.55.28:620][868]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto3
+[2023.02.20-14.55.28:620][868]LogSavePackage: Moving '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/Main_Auto34B94ED63405261CFA64E5DBEA8DB729A.tmp' to '../../../../Projects/Unreal2DHD/Unreal2DHD/Saved/Autosaves/Game/Maps/Main_Auto3.umap'
+[2023.02.20-14.55.28:627][868]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.035
+[2023.02.20-14.55.28:627][868]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2023.02.20-14.55.47:838][162]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts
+[2023.02.20-14.55.47:838][162]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts
+[2023.02.20-14.55.47:838][162]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_8
+[2023.02.20-14.55.47:838][162]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_8
+[2023.02.20-14.55.48:327][219]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts
+[2023.02.20-14.55.48:327][219]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts
+[2023.02.20-14.55.48:328][219]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_9
+[2023.02.20-14.55.48:328][219]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_Hearts.FB_Hearts as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_9
+[2023.02.20-14.55.54:824][984]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_Bat.FB_Bat
+[2023.02.20-14.55.54:824][984]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_Bat.FB_Bat
+[2023.02.20-14.55.54:824][984]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_Bat.FB_Bat as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_10
+[2023.02.20-14.55.54:824][984]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_Bat.FB_Bat as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_10
+[2023.02.20-14.55.55:920][109]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_Bat.FB_Bat
+[2023.02.20-14.55.55:920][109]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_Bat.FB_Bat
+[2023.02.20-14.55.55:921][109]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_Bat.FB_Bat as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_11
+[2023.02.20-14.55.55:921][109]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_Bat.FB_Bat as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_11
+[2023.02.20-14.56.06:316][325]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_MaskIdle.FB_MaskIdle
+[2023.02.20-14.56.06:316][325]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_MaskIdle.FB_MaskIdle
+[2023.02.20-14.56.06:316][325]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_MaskIdle.FB_MaskIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_12
+[2023.02.20-14.56.06:316][325]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_MaskIdle.FB_MaskIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_12
+[2023.02.20-14.56.08:844][613]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_MaskIdle.FB_MaskIdle
+[2023.02.20-14.56.08:844][613]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_MaskIdle.FB_MaskIdle
+[2023.02.20-14.56.08:845][613]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_MaskIdle.FB_MaskIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_13
+[2023.02.20-14.56.08:845][613]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_MaskIdle.FB_MaskIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_13
+[2023.02.20-14.56.15:169][352]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_MaskRun.FB_MaskRun
+[2023.02.20-14.56.15:169][352]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_MaskRun.FB_MaskRun
+[2023.02.20-14.56.15:170][352]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_MaskRun.FB_MaskRun as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_14
+[2023.02.20-14.56.15:170][352]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_MaskRun.FB_MaskRun as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_14
+[2023.02.20-14.56.16:592][512]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_MaskRun.FB_MaskRun
+[2023.02.20-14.56.16:592][512]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_MaskRun.FB_MaskRun
+[2023.02.20-14.56.16:592][512]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_MaskRun.FB_MaskRun as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_15
+[2023.02.20-14.56.16:593][512]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_MaskRun.FB_MaskRun as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_15
+[2023.02.20-14.56.29:653][ 52]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-14.56.29:653][ 52]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-14.56.29:653][ 52]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_16
+[2023.02.20-14.56.29:653][ 52]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_16
+[2023.02.20-14.56.30:737][171]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-14.56.30:737][171]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle
+[2023.02.20-14.56.30:738][171]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_17
+[2023.02.20-14.56.30:738][171]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerIdle.FB_PlayerIdle as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_17
+[2023.02.20-14.56.36:262][808]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerRun.FB_PlayerRun
+[2023.02.20-14.56.36:262][808]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerRun.FB_PlayerRun
+[2023.02.20-14.56.36:262][808]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerRun.FB_PlayerRun as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_18
+[2023.02.20-14.56.36:262][808]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerRun.FB_PlayerRun as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_18
+[2023.02.20-14.56.37:444][937]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerRun.FB_PlayerRun
+[2023.02.20-14.56.37:444][937]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerRun.FB_PlayerRun
+[2023.02.20-14.56.37:445][937]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerRun.FB_PlayerRun as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_19
+[2023.02.20-14.56.37:445][937]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Flipbooks/FB_PlayerRun.FB_PlayerRun as actor: PaperFlipbookActor /Game/Maps/Main.Main:PersistentLevel.PaperFlipbookActor_19
+[2023.02.20-14.57.18:647][793]Cmd: TRANSACTION UNDO
+[2023.02.20-14.57.18:647][793]LogEditorTransaction: Undo Move Elements
+[2023.02.20-14.57.31:918][299]Cmd: DELETE
+[2023.02.20-14.57.31:918][299]Cmd: ACTOR DELETE
+[2023.02.20-14.57.31:919][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.20-14.57.31:920][299]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.02.20-14.57.31:920][299]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.02.20-14.57.31:921][299]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.02.20-14.57.31:921][299]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.02.20-14.57.31:922][299]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.02.20-14.57.31:922][299]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.02.20-14.57.31:946][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.20-14.57.31:951][299]LogEditorActor: Deleted 7 Actors (0.033 secs)
