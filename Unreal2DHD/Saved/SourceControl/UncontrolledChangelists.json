@@ -103,7 +103,10 @@
 				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_5.uasset",
 				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_6.uasset",
 				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_7.uasset",
-				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_8.uasset"
+				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Sprites/Spring/T_Spring_Sprite_8.uasset",
+				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Assets/Textures/T_Terrain_TileSet.uasset",
+				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Assets/TileAssets/T_Terrain_TileSet.uasset",
+				"G:/Unreal/Projects/Unreal2DHD/Unreal2DHD/Content/Assets/TileAssets/T_Terrain_TileMap.uasset"
 			]
 		}
 	]
